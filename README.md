@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Muhammad Farhan Suri 👋</h1>
-<h3 align="center">An Electrical Engineering Student at Diponegoro University 🇮🇩</h3>
+<h3 align="center">An Electrical Engineering Student at Diponegoro University</h3>
 
 <p align="center">
   <em>"An electrical engineering student who envisions a great change for the world of automation in Indonesia."</em>
