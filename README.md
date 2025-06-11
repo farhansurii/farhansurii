@@ -20,7 +20,7 @@ Currently, my main focus is on the **development of humanoid robots**, and I am 
 - 🔭 I’m currently working on projects related to **Robotics and Control Systems**.
 - 🌱 I’m currently learning **Robot Operating System (ROS 2)** for complex robotic applications.
 - 💬 Ask me about **C++, Python, or anything related to Arduino!**
-- 📫 How to reach me: **[YOUR-EMAIL]@example.com**
+- 📫 How to reach me: **frhnnsuri@gmail.com**
 
 ---
 
