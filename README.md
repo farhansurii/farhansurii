@@ -50,6 +50,6 @@ Here are some of the technologies I am currently working with and learning:
 Let's connect! I'm always open to discussions, collaborations, or just a friendly chat.
 
 <p align="left">
-<a href="https://linkedin.com/in/muhammadfarhansuri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-farhan-suri-810a36291/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile" height="30" width="40" /></a>
 <a href="mailto:frhnsuri@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email Me" height="30" width="40" /></a>
 </p>
