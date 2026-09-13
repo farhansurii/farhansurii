@@ -1,55 +1,42 @@
-<h1 align="center">Hi there, I'm Muhammad Farhan Suri 👋</h1>
-<h3 align="center">An Electrical Engineering Student at Diponegoro University</h3>
+## Muhammad Farhan Suri
 
-<p align="center">
-  <em>"An electrical engineering student who envisions a great change for the world of automation in Indonesia."</em>
-</p>
+Final-year Electrical Engineering student at Universitas Diponegoro, concentrating in
+Control and Instrumentation.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2cWN5Z2E1anRsc2Z3dmp5cDV2NXQ1amwzZXB4enJkNDBkeTJjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Automation GIF" width="400"/>
-</p>
+I lead **EWS Bascorro**, Diponegoro University's humanoid robot soccer team. Three robots
+run ROS 2 — two on Intel NUC computers, one on a Jetson Orin Nano — each with an OpenCR 1.0
+board on an STM32F7 handling real-time actuator control. Before leading the team I worked
+on its vision and locomotion software: ball detection in OpenCV, leg trajectories from
+inverse kinematics, and IMU feedback for balance.
 
----
+In early 2026 I spent two months at **PT PLN Indonesia Power**, analysing the GE Mark VIe
+distributed control system of a 109.65 MW gas turbine generator. The interesting part was
+its triple modular redundancy: three controllers run in parallel and vote, and the voted
+output follows the median of the three channels rather than the mean, so deviation on one
+channel never reaches the control decision.
 
-### 🤔 **About Me**
+My final-year project is a pico-hydro generation emulator with battery energy storage,
+built so that generating conditions can be reproduced electrically instead of with a water
+turbine and a flow rig.
 
-I am an Electrical Engineering student at Diponegoro University with 2 years of academic experience. I have a deep passion for **automated electronics** and **industrial control systems**.
+### Selected work
 
-Currently, my main focus is on the **development of humanoid robots**, and I am actively exploring the technologies that power them. My ultimate career goal is to become a **Control and Automation Engineer** and contribute significantly to Indonesia's industrial advancement.
+| Repository | What it is |
+| --- | --- |
+| [system-identification-rls](https://github.com/farhansurii/system-identification-rls) | Recursive online parameter estimation in MATLAB. LMS gradient descent fitting an ARX model to a nonlinear plant, written without the System Identification Toolbox. |
+| [dc-microgrid-droop-control](https://github.com/farhansurii/dc-microgrid-droop-control) | Simulink models of two battery units sharing a DC bus through bidirectional converters under droop control, scored with the ITAE index. |
+| [arduino-water-level-control](https://github.com/farhansurii/arduino-water-level-control) | Hysteresis pump controller with no external libraries — hand-written bit-banged I²C, an HD44780 LCD driver, and an oversampling filter on the ultrasonic sensor. |
+| [Auto_GateToll_simpleVer](https://github.com/farhansurii/Auto_GateToll_simpleVer) | Automated barrier on ESP32 using ultrasonic ranging and servo actuation. |
+| [smartdoor_esp](https://github.com/farhansurii/smartdoor_esp) | ESP32 door lock experiment. |
 
-- 🔭 I’m currently working on projects related to **Robotics and Control Systems**.
-- 🌱 I’m currently learning **Robot Operating System (ROS 2)** for complex robotic applications.
-- 💬 Ask me about **C++, Python, or anything related to Arduino!**
-- 📫 How to reach me: **frhnnsuri@gmail.com**
+### Working with
 
----
+- **Control** — PID tuning, state-space modelling, system identification, digital control, droop control
+- **Simulation** — MATLAB, Simulink, Stateflow, Webots, Proteus
+- **Embedded** — STM32, OpenCR 1.0, Arduino, ESP32, I²C, SPI, UART, RS-485
+- **Robotics** — ROS 2, forward and inverse kinematics, trajectory generation, Dynamixel servos
+- **Languages** — C, C++, Python, MATLAB
 
-### 🛠️ **Skills & Technologies**
+### Contact
 
-Here are some of the technologies I am currently working with and learning:
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,arduino,ros" alt="My Skill Set"/>
-    </a>
-</p>
-
----
-
-### 📊 **My GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhansurii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad Farhan Suri's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhansurii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 📫 **Connect with Me**
-
-Let's connect! I'm always open to discussions, collaborations, or just a friendly chat.
-
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-farhan-suri-810a36291/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile" height="30" width="40" /></a>
-<a href="mailto:frhnsuri@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email Me" height="30" width="40" /></a>
-</p>
+[frhnsuri@gmail.com](mailto:frhnsuri@gmail.com) · [LinkedIn](https://linkedin.com/in/muhammadfarhansuri)
