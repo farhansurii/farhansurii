@@ -5,7 +5,7 @@ Control and Instrumentation.
 
 I lead **EWS Bascorro**, Diponegoro University's humanoid robot soccer team. Three robots
 run ROS 2 — two on Intel NUC computers, one on a Jetson Orin Nano — each with an OpenCR 1.0
-board on an STM32F7 handling real-time actuator control. Before leading the team I worked
+board on an STM32F7 handling real-time actuator control. Before leading the team I spent nearly two years working
 on its vision and locomotion software: ball detection in OpenCV, leg trajectories from
 inverse kinematics, and IMU feedback for balance.
 
